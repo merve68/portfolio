@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Yer 6",
+    "imageSrc": "projects/project.png",
+    "description": "React Native framework kullanılarak geliştirilen bir e ticaret uygulamasıdır. Ödeme yöntemi paket olarak entegre edilmiştir.",
+    "skills": ["React Native", "Firebase", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/merve68/yer6"
+  },
+  {
+    "title": "MERN Stack From",
+    "imageSrc": "projects/project.png",
+    "description": "Mern Stack olan bu uygulama kullanıcı bilgilerini veri tabanında tutmak için geliştirilen form uygulamasıdır. ",
+    "skills": ["React", "Express", "Node", "MongoDb"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/merve68/MERN-Form"
+  },
+  {
+    "title": "REST Api",
+    "imageSrc": "projects/project.png",
+    "description": "Mern stack olarak geliştirmiş olduğum bu uygulama bilgisayarın mevcut durumunu efektif bir şekilde görmemize olanak sağlar.",
+    "skills": ["React", "Express", "Node","MongoDb"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/merve68/Fullstack-Restapi"
+  },
+  {
+    "title": "Film Sitesi",
+    "imageSrc": "projects/project.png",
+    "description": "React Native framework kullanılarak geliştirilen bir online film izlemek için kullanılan uygulamasıdır.",
+    "skills": ["React Native", "Firebase", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/merve68/FilmProject"
+  },
+  {
+    "title": "Yemek Sipariş Uygulaması",
+    "imageSrc": "projects/project.png",
+    "description": "React Native framework kullanılarak geliştirilen bir online yemek siparişi için kullanılan uygulamasıdır. ",
+    "skills": ["React Native", "Express"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/merve68/FoodRedice"
+  },
+  {
+    "title": "Onboarding",
+    "imageSrc": "projects/project.png",
+    "description": "React Native ve firebase ile geliştirilmiş kullanıcı giriş çıkışlarını takip eden uygulamadır.",
+    "skills": ["React Native", "Firebase"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/merve68/Onboarding"
+  }
+]

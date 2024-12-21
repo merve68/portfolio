@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Mobil Yazılım ",
+    "organisation": "Taptoweb",
+    "startDate": "Haziran, 2020",
+    "endDate": "Ağustos, 2020",
+    "experiences": ["React Native", "Satjyer"],
+    "imageSrc": "history/t.png"
+  },
+  {
+    "role": "Frontend Developer",
+    "organisation": "Kapsül Teknoloji Platformu",
+    "startDate": "Ocak, 2023",
+    "endDate": "Nisan, 2023",
+    "experiences": ["Form Uygulaması", "Mail İmzası"],
+    "imageSrc": "history/k.png"
+  }
+]
